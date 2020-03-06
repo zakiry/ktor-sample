@@ -17,5 +17,10 @@ https://ktor.io/quickstart/guides/api.html
 ./gradlew build
 ./gradlew run
 ```
-access to http://0.0.0.0:8080/
-
+access
+```
+$ curl http://0.0.0.0:8080/json/jackson
+{
+  "hello" : "world"
+}
+```
