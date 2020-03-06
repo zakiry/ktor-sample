@@ -33,3 +33,11 @@ BUILD SUCCESSFUL in 21s
 ここからいい感じのやつを作ることもできる。今回はこっちを使用する
 https://ktor.io/quickstart/guides/api.html
 
+# Hello world
+```
+./gradlew build
+./gradlew run
+```
+access to http://0.0.0.0:8080/
+
+
