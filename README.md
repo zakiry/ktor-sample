@@ -30,3 +30,6 @@ BUILD SUCCESSFUL in 21s
 2 actionable tasks: 2 executed
 ```
 
+ここからいい感じのやつを作ることもできる。今回はこっちを使用する
+https://ktor.io/quickstart/guides/api.html
+
